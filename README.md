@@ -42,4 +42,4 @@ Objetivo: Criar um **Jogo do Galo** como aplicação de consola em C#.
   - Pasta com ficheiros do projeto
   - Ficheiro README.md com identificação dos alunos e relatório
   - Imagem com diagrama UML do projeto
-- Data limite: 19/02/2024
+- Data limite: 23/02/2024
