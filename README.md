@@ -35,11 +35,13 @@ Objetivo: Criar um **Jogo do Galo** como aplicação de consola em C#.
 
 ## Entrega
 
-- Repositório no GitHub
-  - Meter link na tabela 'Entrega de fichas / projetos' na pasta de PSI
+- Repositório no GitHub **privado**
+  - Ir a **Definições** -> **Colaboradores** -> **Adicionar pessoas** -> Pesquisar pelo nome do professor (Manuel Geraldes) e selecionar
+  - Meter link do repositório na tabela 'Entrega de fichas / projetos', na pasta de PSI
 - Conteúdo:
-  - Ficheiro .gitignore
+  - Ficheiros .gitignore e .gitattributes
   - Pasta com ficheiros do projeto
+  - Solução do projeto
   - Ficheiro README.md com identificação dos alunos e relatório
   - Imagem com diagrama UML do projeto
 - Data limite: 23/02/2024
